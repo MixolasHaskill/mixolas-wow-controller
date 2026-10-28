@@ -1,0 +1,326 @@
+-- Mixolas HasKill / Steam Controller WoW keybinding profile.
+-- Compatible with KeyBindProfiles saved-variable format (KeyBindProfilesDBv1).
+-- Source: user-supplied profile. Keybindings preserved exactly.
+-- IMPORTANT: Back up existing KeyBindProfiles.lua before replacing it.
+
+KeyBindProfilesDBv1 = {
+["namespaces"] = {},
+["global"] = {
+["update_bindings_trigger"] = true,
+},
+["profileKeys"] = {},
+["profiles"] = {
+["Steam Controller WoW"] = {
+["bindings"] = {
+["TARGETNEARESTENEMYPLAYER"] = {
+"CTRL-`",
+},
+["TARGETPARTYMEMBER2"] = {
+"F10",
+},
+["SETVIEW2"] = {
+"SHIFT-HOME",
+},
+["MULTIACTIONBAR1BUTTON6"] = {
+"R",
+},
+["MULTIACTIONBAR1BUTTON12"] = {
+"BUTTON4",
+},
+["SHAPESHIFTBUTTON2"] = {
+"CTRL-F2",
+},
+["MULTIACTIONBAR1BUTTON7"] = {
+"SHIFT-R",
+},
+["SHAPESHIFTBUTTON4"] = {
+"CTRL-F4",
+},
+["MULTIACTIONBAR1BUTTON9"] = {
+"SHIFT-F",
+},
+["SETVIEW4"] = {
+"ALT-HOME",
+},
+["BONUSACTIONBUTTON5"] = {
+"9",
+},
+["TOGGLEAUTORUN"] = {
+"ALT-SPACE",
+},
+["SHAPESHIFTBUTTON7"] = {
+"CTRL-F7",
+},
+["PITCHDOWN"] = {
+"DELETE",
+},
+["OPENALLBAGS"] = {
+"DOWN",
+},
+["SHAPESHIFTBUTTON5"] = {
+"CTRL-F5",
+},
+["MULTIACTIONBAR4BUTTON5"] = {
+"ALT-CTRL-1",
+},
+["JUMP"] = {
+"SPACE",
+"NUMPAD0",
+},
+["MULTIACTIONBAR4BUTTON6"] = {
+"SHIFT-3",
+},
+["MULTIACTIONBAR1BUTTON1"] = {
+"ALT-SHIFT-3",
+},
+["SHAPESHIFTBUTTON1"] = {
+"CTRL-F1",
+},
+["MULTIACTIONBAR4BUTTON10"] = {
+"CTRL-3",
+},
+["TARGETNEARESTFRIENDPLAYER"] = {
+"SHIFT-`",
+},
+["BONUSACTIONBUTTON2"] = {
+"ALT-SHIFT-9",
+},
+["TARGETNEARESTFRIEND"] = {
+"ALT-SHIFT-`",
+},
+["SAVEVIEW1"] = {
+"CTRL-SHIFT-HOME",
+},
+["QUESTIE_TOGGLE_JOURNEY"] = {
+";",
+},
+["STRAFELEFT"] = {
+"Q",
+},
+["NAMEPLATES"] = {
+"ALT-CTRL-=",
+},
+["TOGGLEWORLDMAP"] = {
+"M",
+},
+["CAMERAZOOMOUT"] = {
+"MOUSEWHEELDOWN",
+},
+["TOGGLETALENTS"] = {
+"SHIFT-LEFT",
+},
+["TOGGLEGUILDTAB"] = {
+"ALT-DOWN",
+},
+["TOGGLEGROUPFINDER"] = {
+"I",
+},
+["BONUSACTIONBUTTON1"] = {
+"SHIFT-9",
+},
+["RAIDTARGET1"] = {
+"ALT-BUTTON3",
+},
+["SITORSTAND"] = {
+"SHIFT-=",
+},
+["TARGETPARTYMEMBER3"] = {
+"F11",
+},
+["RAIDTARGET3"] = {
+"CTRL-SHIFT-BUTTON3",
+},
+["TARGETPARTYPET4"] = {
+"SHIFT-F12",
+},
+["TOGGLECHARACTER4"] = {
+"CTRL-UP",
+},
+["RAIDTARGET4"] = {
+"ALT-SHIFT-BUTTON3",
+},
+["MULTIACTIONBAR1BUTTON5"] = {
+"ALT-CTRL-3",
+},
+["RAIDTARGET5"] = {
+"ALT-CTRL-SHIFT-BUTTON3",
+},
+["RAIDTARGET6"] = {
+"SHIFT-BUTTON3",
+},
+["RAIDTARGET7"] = {
+"CTRL-BUTTON3",
+},
+["TOGGLERAIDTAB"] = {
+"CTRL-DOWN",
+},
+["RAIDTARGET8"] = {
+"BUTTON3",
+},
+["FLIPCAMERAYAW"] = {
+"ALT-CTRL-SHIFT-9",
+},
+["TOGGLEQUESTLOG"] = {
+"SHIFT-M",
+},
+["SAVEVIEW3"] = {
+"ALT-CTRL-HOME",
+},
+["TOGGLEPETBOOK"] = {
+"ALT-LEFT",
+},
+["OPENCHAT"] = {
+"ENTER",
+},
+["MULTIACTIONBAR4BUTTON3"] = {
+"ALT-1",
+},
+["TARGETPET"] = {
+"SHIFT-F7",
+},
+["BONUSACTIONBUTTON6"] = {
+"ALT-9",
+},
+["TARGETPARTYPET2"] = {
+"SHIFT-F10",
+},
+["TARGETLASTTARGET"] = {
+"ALT-CTRL-`",
+},
+["SHAPESHIFTBUTTON10"] = {
+"CTRL-F10",
+},
+["BONUSACTIONBUTTON9"] = {
+"CTRL-9",
+},
+["OPENCHATSLASH"] = {
+"CTRL-ENTER",
+},
+["FRIENDNAMEPLATES"] = {
+"ALT-SHIFT-=",
+},
+["TARGETPARTYPET3"] = {
+"SHIFT-F11",
+},
+["MOVEFORWARD"] = {
+"W",
+},
+["CAMERAZOOMIN"] = {
+"MOUSEWHEELUP",
+},
+["TOGGLEFRIENDSTAB"] = {
+"SHIFT-DOWN",
+},
+["STRAFERIGHT"] = {
+"E",
+},
+["TOGGLESPELLBOOK"] = {
+"LEFT",
+},
+["TOGGLERUN"] = {
+"NUMPADDIVIDE",
+},
+["TOGGLECHARACTER3"] = {
+"ALT-CTRL-SHIFT-UP",
+},
+["TOGGLECHARACTER2"] = {
+"SHIFT-UP",
+},
+["TOGGLECHARACTER1"] = {
+"ALT-UP",
+},
+["TOGGLECHARACTER0"] = {
+"UP",
+},
+["FOLLOWTARGET"] = {
+"ALT-SHIFT-SPACE",
+},
+["SHAPESHIFTBUTTON6"] = {
+"CTRL-F6",
+},
+["TOGGLEGAMEMENU"] = {
+"ESCAPE",
+},
+["ASSISTTARGET"] = {
+"ALT-`",
+},
+["INTERACTTARGET"] = {
+"=",
+},
+["RAIDTARGET2"] = {
+"ALT-CTRL-BUTTON3",
+},
+["REPLY2"] = {
+"ALT-ENTER",
+},
+["PITCHUP"] = {
+"INSERT",
+},
+["TARGETPARTYPET1"] = {
+"SHIFT-F9",
+},
+["SETVIEW3"] = {
+"CTRL-HOME",
+},
+["MULTIACTIONBAR4BUTTON1"] = {
+"ALT-SHIFT-1",
+},
+["SHAPESHIFTBUTTON8"] = {
+"CTRL-F8",
+},
+["MULTIACTIONBAR1BUTTON8"] = {
+"F",
+},
+["SHAPESHIFTBUTTON3"] = {
+"CTRL-F3",
+},
+["MOVEBACKWARD"] = {
+"S",
+},
+["MULTIACTIONBAR1BUTTON3"] = {
+"ALT-3",
+},
+["SETVIEW1"] = {
+"HOME",
+},
+["SAVEVIEW2"] = {
+"ALT-SHIFT-HOME",
+},
+["TARGETPARTYMEMBER4"] = {
+"F12",
+},
+["TURNRIGHT"] = {
+"D",
+"RIGHT",
+},
+["TARGETPARTYMEMBER1"] = {
+"F9",
+},
+["SHAPESHIFTBUTTON9"] = {
+"CTRL-F9",
+},
+["TURNLEFT"] = {
+"A",
+},
+["BONUSACTIONBUTTON10"] = {
+"ALT-CTRL-9",
+},
+["TARGETSELF"] = {
+"F7",
+},
+["TARGETNEARESTENEMY"] = {
+"`",
+},
+["TOGGLEWORLDSTATESCORES"] = {
+"CTRL-SHIFT-M",
+},
+["MULTIACTIONBAR4BUTTON8"] = {
+"3",
+},
+["TOGGLESHEATH"] = {
+"CTRL-=",
+},
+},
+},
+},
+}
