@@ -1,10 +1,12 @@
 # Mixolas HasKill — WoW Keybinding Family Cheat Sheet
 
+> **2026-11-11 update:** Use the [single universal Steam Deck / Steam Controller 2 WoW Layout](https://steaminputdb.com/config/3838058545). This document reflects the older optional KeyBindProfiles export; install [Mixolas Controller Bars](https://www.curseforge.com/wow/addons/mixolas-controller-bars) for the current in-game preset. No separate Steam/Guide Button Chord layout is needed.
+
 **Profile:** `Steam Controller WoW`  |  **Source:** `KeyBindProfiles.lua`  |  **Game used for this export:** WoW Classic Hardcore
 
 This reference is grouped into **families** so you can find an entire set of related controls at once. Every keyboard/mouse binding below comes from the named saved profile in the accompanying Lua file. The file includes **102 WoW commands / 104 key assignments**.
 
-> **Read this first:** This is a **WoW keybinding** cheat sheet, not an export of Steam Input button mappings. Steam Input decides which physical controller button sends each key. The exact abilities inside action-bar slots depend on your class, stance, and bar setup. The Always On right-mouse camera and Steam-button free-cursor behavior are configured in **Steam Input**, not in this Lua file.
+> **Read this first:** This is a **WoW keybinding** cheat sheet, not an export of Steam Input button mappings. Steam Input decides which physical controller button sends each key. The exact abilities inside action-bar slots depend on your class, stance, and bar setup. The Always-On right-mouse camera and the temporary **Free Mouse** layer (hold D-pad Down) are configured in **Steam Input**, not in this Lua file.
 
 ## Modifier legend (Steam Controller layout)
 
