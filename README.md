@@ -1,4 +1,8 @@
-# Mixolas HasKill — Steam Controller 2 WoW Keybindings
+# Mixolas HasKill — WoW Keybindings (Legacy Profile)
+
+> **CURRENT STEAM INPUT SETUP — NOVEMBER 11, 2026:** [Download the one universal Steam Deck / Steam Controller 2 WoW Layout](https://steaminputdb.com/config/3838058545). The old separate Steam/Guide Button Chord layout is obsolete. Hold **D-pad Down** to enter the new Free Mouse layer; release to resume normal gameplay. **Do not install a second Steam Input layout.**
+>
+> This repository contains an older optional **KeyBindProfiles** SavedVariables export. It is **not required** when using the current [Mixolas Controller Bars](https://www.curseforge.com/wow/addons/mixolas-controller-bars) built-in MIXOLAS preset. See [current setup instructions](https://github.com/MixolasHaskill/Mixolas-Bars/blob/main/STEAM_INPUT_SETUP.md).
 
 This repository contains the **Steam Controller WoW** saved keybinding profile for the **KeyBindProfiles** World of Warcraft addon. It is based on the configuration currently used for **Classic Hardcore**; **WoW Forever has not yet been tested against this release**.
 
@@ -8,7 +12,7 @@ See [KEYBIND-CHEATSHEET.md](KEYBIND-CHEATSHEET.md) for all **102 commands**, org
 
 ## Requirements
 
-- The Steam Controller layout demonstrated in the Mixolas HasKill setup tutorial (a **separate** Steam Input download).
+- [The current universal Steam Deck / Steam Controller 2 WoW Layout](https://steaminputdb.com/config/3838058545) (one layout only).
 - [KeyBindProfiles](https://www.curseforge.com/wow/addons/keybindprofiles) installed in your WoW version.
 
 ## Fresh setup (no existing KeyBindProfiles profiles)
